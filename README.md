@@ -6,7 +6,7 @@ The PV production was generated with real meteorological data from www.soda-pro.
 
 Then, the optimisation of the system was made with the Library Oemof. The final results give the you the size of the PV power plant, the dispatching of the different electricity production and consumption at the lower cost.
 
-![84230623_186638612665648_7407903293709484032_n](/home/hugosch/Documents/MS ENR/Project/Results/84230623_186638612665648_7407903293709484032_n.png)
+
 
 
 
@@ -61,14 +61,13 @@ If you want the best number of generator, use the function **bestngen**
 
 # Results :
 
-![DemandeVariablediesel](/home/hugosch/Documents/MS ENR/Project/Results/DemandeVariablediesel.png)
 
 
 
 ## Built with :
 
 1. **pvlib-python** - a set of documented functions for simulating the performance of a photovoltaic system located  @https://github.com/pvlib/pvlib-python
-2. **oemof **- Open Energy Modelling Framework - Base packages for energy system modelling and optimisation @https://github.com/oemof/oemof
+2. **oemof** - Open Energy Modelling Framework - Base packages for energy system modelling and optimisation @https://github.com/oemof/oemof
 3. **Soda-pro** - Solar radiation data @http://soda-pro.com/
 4. **CBC** - COIN-OR Branch-and-Cut solver @https://github.com/coin-or/Cbc
 
