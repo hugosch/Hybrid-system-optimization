@@ -6,9 +6,7 @@ The PV production was generated with real meteorological data from www.soda-pro.
 
 Then, the optimisation of the system was made with the Library Oemof. The final results give the you the size of the PV power plant, the dispatching of the different electricity production and consumption at the lower cost.
 
-
-
-
+! [84230623_186638612665648_7407903293709484032_n](/Results/84230623_186638612665648_7407903293709484032_n.png)
 
 
 
@@ -60,7 +58,7 @@ If you want the best number of generator, use the function **bestngen**
 *Note : If your first generator doesn't give enough power to respond to the demand the program won't work* 
 
 # Results :
-
+![DemandeVariablediesel](/Results/DemandeVariablediesel.png)
 
 
 
