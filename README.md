@@ -72,6 +72,6 @@ If you want the best number of generator, use the function **bestngen**
 ## Authors
 
 - Hugo Schoen
-- Cécile Gnouloufoum
+- Cécile Gnonlonfoun
 - Pablo Zamorano
 - Antoine Ribes
